@@ -1,5 +1,5 @@
 ## Olá, sou Danilo Blanco Motta
-Profissional em Ciência de Dados e Machine Learning. Atualmente, meu foco se estende à aplicação de IA Generativa, com projetos envolvendo LLMs, a arquitetura RAG e o desenvolvimento com frameworks como Langchain e PydanticAI.
+Profissional em Ciência de Dados e Machine Learning. Atualmente, meu foco se estende também à aplicações de IA Generativa, com projetos envolvendo LLMs, a arquitetura RAG. Buscando aprimorar e criar frameworks como Langchain e PydanticAI.
 
 ## Meu foco está em Machine Learning e Engenharia de IA
 <p align="left">
@@ -35,8 +35,15 @@ Profissional em Ciência de Dados e Machine Learning. Atualmente, meu foco se es
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
+
+  <a href="mailto:professor.daniloblanco@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+   &nbsp;
+  <a href="https://wa.me/5511998718006" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
           
-          
-          
-        
+
 
