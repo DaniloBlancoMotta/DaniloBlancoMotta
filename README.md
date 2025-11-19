@@ -1,5 +1,9 @@
+## Hi, I'm Danilo Blanco Motta
+
+A Data Science and Machine Learning specialist. My current focus is on Generative AI, specifically studying LLMs, SDKs, OpenAI, Gemini, and RAG architectures. I am passionate about developing and optimizing production-ready applications using frameworks like LangGraph, LangChain, CrewAI, and PydanticAI.
+
 ## Olá, sou Danilo Blanco Motta
-Profissional em Ciência de Dados e Machine Learning. Atualmente, meu foco se estende também à aplicações de IA Generativa estudando modelos e projetos envolvendo LLMs, arquiteturas RAG. Sempre buscando aprimorar e criar frameworks como Langchain e PydanticAI para aplicações reais. 
+Profissional em Ciência de Dados e Machine Learning. Atualmente, meu foco se estende também à aplicações de IA Generativa estudando modelos e projetos envolvendo LLMs, SDK, Open AI, Gemini e arquiteturas RAG. Sempre buscando aprimorar e criar frameworks como Langraph, Langchain, CrewAI e PydanticAI para aplicações reais em produção
 
 ## Meu foco está em Machine Learning e Engenharia de IA
 <p align="left">
