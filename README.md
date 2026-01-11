@@ -4,12 +4,12 @@ Senior AI Engineer | Data Scientist | MLOps Specialist
 I bridge the gap between complex data and business value by architecting end-to-end AI lifecycles. My approach combines rigorous Data Engineering (ETL/Quality), advanced Predictive Modeling, and modern Agentic AI (GenAI), all underpinned by MLOps best practices to ensure production-grade reliability.
 
 Olá, sou Danilo Blanco Motta
-Engenheiro de IA Sênior | Cientista de Dados | Especialista em MLOps
+Engenheiro de IA | Cientista de Dados | Especialista em MLOps
 
 Transformo dados brutos em inteligência estratégica através da arquitetura de ciclos completos de IA. Minha expertise une Engenharia de Dados (ETL) robusta, modelagem preditiva avançada e IA Agêntica (GenAI), sempre aplicando práticas de MLOps para garantir que modelos não sejam apenas protótipos, mas ativos de produção escaláveis.
 
-🛠️ Expertise & Technical Stack
-🤖 Generative AI & Orchestration
+ - Expertise & Technical Stack
+ - Generative AI & Orchestration
 Architectures: RAG (Retrieval-Augmented Generation), Multi-Agent Systems, Autonomous Workflows.
 
 Frameworks: LangGraph, LangChain, CrewAI, PydanticAI.
